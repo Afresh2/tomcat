@@ -1,5 +1,6 @@
-## Welcome to Apache Tomcat!
+## Beyond SUPER KING Tomcat!
 
+![LGTM](https://i.lgtm.fun/2pbk.png)
 ### What Is It?
 
 The Apache Tomcat® software is an open source implementation of the Java
